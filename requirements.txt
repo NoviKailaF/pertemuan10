@@ -1,1 +1,4 @@
-Unable to initialize device PRN
+streamlit
+pandas
+plotly
+onenpyxl
